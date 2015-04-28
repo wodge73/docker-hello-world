@@ -1,13 +1,13 @@
 docker-hello-world
 ==================
 
-An updated image from the tutumcloud/docker-hello-world repo.
+An updated image from the tutumcloud/docker-hello-world repo. This is a very basic Hello World image that we use to test the Automated build of the Dockerfile and the auto deployment of the updated container via Tutum.
 
 
 Usage
 -----
 
-To create the image `tutum/hello-world`, execute the following command on the docker-hello-world folder:
+To create the image `vegasbrianc/docker-hello-world`, execute the following command on the docker-hello-world folder:
 
 	docker build -t vegasbrianc/docker-hello-world .
 
