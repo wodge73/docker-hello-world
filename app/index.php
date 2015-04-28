@@ -16,8 +16,8 @@
 	</style>
 </head>
 <body>
-	<img id="logo" src="logo1.png" />
-	<h1><?php echo "Hello ".($_ENV["NAME"]?$_ENV["NAME"]:"Swisscom")."!"; ?></h1>
+	<img id="logo" src="Container_Automation.jpg" />
+	<h1><?php echo "Hello ".($_ENV["NAME"]?$_ENV["NAME"]:"Docker!")."!"; ?></h1>
 	<?php if($_ENV["HOSTNAME"]) {?><h3>My hostname is <?php echo $_ENV["HOSTNAME"]; ?></h3><?php } ?>
 	<?php
 	$links = [];
