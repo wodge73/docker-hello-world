@@ -4,6 +4,8 @@ docker-hello-world
 
 An updated image from the tutumcloud/docker-hello-world repo. This is a very basic Hello World image that we use to test the Automated build of the Dockerfile and the auto deployment of the updated container via Tutum.
 
+Check out the full article on how to automate docker builds end-to-end: [Brianchristner.io](https://www.brianchristner.io/how-to-automate-docker-builds-end-to-end/)
+
 
 Usage
 -----
